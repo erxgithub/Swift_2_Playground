@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Welcome Back'/>
+        <page name='More Optionals'/>
+        <page name='Type Casting'/>
+        <page name='More Tuples'/>
+        <page name='Generics'/>
+        <page name='Error Handling'/>
+        <page name='Operators'/>
+        <page name='Stretch Goals'/>
+    </pages>
+</playground>
